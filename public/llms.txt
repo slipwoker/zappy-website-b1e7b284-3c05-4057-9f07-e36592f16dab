@@ -1,0 +1,61 @@
+# פנטזיה זורמת — Generative Engine Optimization Map
+
+> A צילום ילדים ומשפחה business.
+
+---
+
+## Pages
+
+### בית
+https://-b1e7b284.zappy5.app
+גלו את תיק עבודות צילום המקצועי שלנו המתמחה בצילום ילדים ומשפחה. פנטזיה זורמת - צילומי סמאש קייק, חלאקה ורגעים משפחתיים בלתי נשכחים.
+
+### שירותים
+https://-b1e7b284.zappy5.app/services
+שירותי צילום משפחה מקצועיים: צילומי סמאש קייק, חלאקה, צילום ילדים וניובורן. תיק עבודות צילום עשיר המציג את המומחיות שלנו בתחום צילום ילדים ומשפחה.
+
+### גלריה
+https://-b1e7b284.zappy5.app/gallery
+צפו בגלריה המלאה של תיק עבודות צילום שלנו. צילום משפחה, צילומי סמאש קייק וצילום ילדים מקצועי בישראל - דוגמאות מרהיבות מעבודות קודמות.
+
+### אודות
+https://-b1e7b284.zappy5.app/about
+הכירו את פנטזיה זורמת - צלם ילדים מקצועי בישראל המתמחה בצילום משפחה וצילומי סמאש קייק. קראו את הסיפור שלנו וגלו את הגישה המקצועית שלנו.
+
+### צור קשר
+https://-b1e7b284.zappy5.app/contact
+צרו קשר עם פנטזיה זורמת לתיאום צילום משפחה, צילומי סמאש קייק או כל שירות צילום אחר. נשמח לשמוע מכם ולענות על כל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b1e7b284.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b1e7b284.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b1e7b284.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פנטזיה זורמת
+פנטזיה זורמת is a business in the צילום ילדים ומשפחה industry.
+
+## Target Audience
+הורים, משפחות, לקוחות לאירועי חלאקה וסמאש קייק
+
+## Industry
+צילום ילדים ומשפחה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b1e7b284.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b1e7b284.zappy5.app/robots.txt
